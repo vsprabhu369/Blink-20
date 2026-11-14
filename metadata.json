@@ -1,0 +1,6 @@
+{
+  "name": "Blink 20",
+  "description": "Minimalist 20-20-20 eye care timer with female voice cues, customizable work and rest intervals, daily start/stop scheduler, session work/break summaries, sounds, vibration, and dark theme variants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
